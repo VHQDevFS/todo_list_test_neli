@@ -1,0 +1,11 @@
+.wrapper {
+  height: 100%;
+  overflow: overlay;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
